@@ -1,5 +1,5 @@
 <?php
-require_once "ressources.php";
+//require_once "ressources.php";
 /*
 function query( $q )
 {
@@ -44,6 +44,7 @@ function entete( $titre_page )
         <title>$titre_page</title>
         <link rel="stylesheet" href="fonctions.css">
         <script type="text/javascript" src="fonctions.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     </head>
     <body>
     TOTO123;
