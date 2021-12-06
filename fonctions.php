@@ -1,6 +1,6 @@
 <?php
 require_once "ressources.php";
-
+/*
 function query( $q )
 {
     GLOBAL $servername, $username, $password, $database;
@@ -31,7 +31,11 @@ function comboBox(  $table, $query="", $visibleAdd=1  )
     if($visibleAdd)
         print( "<div class='buttonCombo' onclick=\"addItem( '$table', 'ajout $table' )\" >+</div>\n");
 }
+<<<<<<< HEAD
 
+=======
+*/
+>>>>>>> AdminChangeDateTirage
 function entete( $titre_page )
 {
     $var = <<<TOTO123
