@@ -1,0 +1,9 @@
+ CREATE DATABASE Noel;
+
+CREATE TABLE inscriptions (
+  id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+  pseudo VARCHAR(50),
+  email VARCHAR(255)
+);
+
+
